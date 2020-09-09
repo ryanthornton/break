@@ -1,10 +1,3 @@
-lasdjk
-adsklflj
-skadfj
-alsdkjf
-koslad  hijf
-skladf
-
-laskdfj
-
-dlfsgj
+1. ls
+2. man
+3. ping google
